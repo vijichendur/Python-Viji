@@ -1,4 +1,5 @@
 
-if __variable__ == '__main__':
-    print('Version V 1.0')
-    print('Some More Changes')
+
+if __name__ == '__main__':
+    print('Iam editing Viji repository  subha- Jul 11 - 11.45 am')
+
